@@ -1,8 +1,9 @@
 package main
-import ("fmt"
-		"time"
-		"math/rand"
-	   )
+import (
+	"fmt"
+	"time"
+	"math/rand"
+	)
 
 type new_array struct{
     array [4][4]int
